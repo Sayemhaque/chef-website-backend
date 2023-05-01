@@ -8,7 +8,7 @@ app.use(cors());
 
 
 
-app.get("/chef" , (req,res) => {
+app.get("/allchef" , (req,res) => {
     res.send({data:"sayem"})
 })
 
