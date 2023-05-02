@@ -30,4 +30,4 @@ app.listen(PORT , () => {
 
 //API URL : https://recipe-app-sayemhaque.vercel.app/allchef
 //SINGLE CHEF URL : https://recipe-app-sayemhaque.vercel.app/chef/:id
-//FETAURE URL : https://recipe-app-sayemhaque.vercel.app/fetaure
+//FETAURE URL : https://recipe-app-sayemhaque.vercel.app/feature

@@ -253,58 +253,6 @@
         "rating": 4.8
     },
     {
-        "id": 4,
-        "chefName": "Maria",
-        "chefPicture": "https://media.lacucinaitaliana.com/photos/604f424f79e98a7b0656e3fa/1:1/h_450,c_limit/Jessica%20Rosval%20credits%20Paolo%20Terzi.jpg",
-        "experience": "15 years",
-        "recipes": [
-            {
-                "name": "Pesto Pasta",
-                "ingredients": [
-                    "1 pound pasta",
-                    "2 cups fresh basil leaves",
-                    "1/2 cup grated Parmesan cheese",
-                    "1/2 cup olive oil",
-                    "1/3 cup pine nuts",
-                    "2 cloves garlic, minced"
-                ],
-                "cookingMethod": 
-                "This recipe is for making a classic basil pesto pasta dish. The pasta is cooked according to package instructions until al dente, then drained and set aside. In a food processor, basil, Parmesan cheese, olive oil, pine nuts, and garlic are combined and processed until smooth. The cooked pasta is then tossed with the pesto until well coated and served immediately, garnished with additional Parmesan cheese and chopped basil, if desired."
-            },
-            {
-                "name": "Caprese Salad",
-                "ingredients": [
-                    "2 large tomatoes, sliced",
-                    "1/2 pound fresh mozzarella cheese, sliced",
-                    "1/4 cup fresh basil leaves",
-                    "2 tablespoons balsamic vinegar",
-                    "2 tablespoons olive oil",
-                    "Salt and freshly ground black pepper"
-                ],
-                "cookingMethod": "This recipe is for making a simple tomato and mozzarella salad. Slices of tomato and mozzarella are arranged on a large platter, alternating them, and then topped with scattered basil leaves. In a small bowl, balsamic vinegar and olive oil are whisked together and seasoned with salt and pepper. The dressing is then drizzled over the top of the salad, and it is served immediately"
-            },
-            {
-                "name": "Tiramisu",
-                "ingredients": [
-                    "6 egg yolks",
-                    "3/4 cup sugar",
-                    "2/3 cup milk",
-                    "1/4 cup Marsala or brandy",
-                    "1 1/2 cups heavy cream",
-                    "1 cup mascarpone cheese",
-                    "2 cups brewed espresso or strong coffee, cooled",
-                    "1/2 cup coffee liqueur",
-                    "1 package ladyfingers",
-                    "Cocoa powder"
-                ],
-                "cookingMethod": "This recipe is for making tiramisu, an Italian dessert. Egg yolks, sugar, milk, and Marsala/brandy are whisked and cooked until thickened, then cooled. Whipped cream is beaten until stiff, and mascarpone cheese is beaten until smooth before being combined with the egg yolk mixture and whipped cream. Ladyfingers are dipped in espresso and coffee liqueur, layered in a dish, and covered with the mascarpone mixture. The tiramisu is refrigerated for at least 2 hours, then dusted with cocoa powder before serving."
-            }
-        ],
-        "bio": "Maria is a passionate Italian chef who has been cooking for over 15 years. She specializes in traditional Italian cuisine and loves to experiment with new flavors and ingredients.",
-        "likes": 500,
-        "rating": 4.6
-    },
-    {
         "id": 5,
         "chefName": "Giuseppe",
         "chefPicture": "https://images.getbento.com/accounts/d8359f61b43ef4d152cf9e1edc857efe/media/images/10244IMG_5014.jpg?w=1200&fit=max&auto=compress,format",
