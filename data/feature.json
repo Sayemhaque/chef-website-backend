@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Spaghetti and Meatballs",
+    "recipePhoto": "https://chatelaine.com/wp-content/uploads/2017/12/classic-spaghetti-and-meatballs-1.jpg",
+    "description": "A classic Italian pasta dish with tender meatballs and savory tomato sauce.",
+    "likes": 152,
+    "ratings": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Traditional Lasagna with Meat Sauce",
+    "recipePhoto": "https://www.savorynothings.com/wp-content/uploads/2021/03/lasagna-recipe-image-9.jpg",
+    "description": "Layers of tender pasta, hearty meat sauce, and creamy cheese make this lasagna a family favorite.",
+    "likes": 189,
+    "ratings": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Chicken Parmesan",
+    "recipePhoto": "https://valentinascorner.com/wp-content/uploads/2018/08/Chicken-Parmesan-11-of-14.jpg",
+    "description": "Tender breaded chicken topped with marinara sauce and melted mozzarella cheese, served over a bed of pasta.",
+    "likes": 122,
+    "ratings": 4.2
+  }
+]
