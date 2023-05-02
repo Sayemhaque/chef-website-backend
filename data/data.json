@@ -2,8 +2,8 @@
     {
         "id": 1,
         "chefName": "Gennaro Contaldo",
-        "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tvgpMzQkb8RyNF95SlJNeRB9m0vID_L2iQ&usqp=CAU",
-        "experience": "Over 50 years of experience in Italian cuisine",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661344424663-61d873ad5647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXRhbGlhbiUyMGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "experience": "20+ years",
         "recipes": [
             {
                 "title": "Pasta e Fagioli",
@@ -49,15 +49,15 @@
                 "cookingMethod": "To make risotto, heat broth and sauté onion in butter. Add rice and toast, then stir in wine. Gradually add broth and stir until the rice is tender. Stir in cheese and saffron, season with salt and pepper, and let rest before serving."
             }
         ],
-        "bio": "Gennaro Contaldo is a well-known Italian chef who has been cooking for over 50 years. He has worked in some of the best Italian restaurants in the UK and has appeared on numerous cooking shows.",
+        "bio": "Gennaro Contaldo is a well-known Italian chef who has been cooking for over 20 years. He has worked in some of the best Italian restaurants in the UK and has appeared on numerous cooking shows.",
         "likes": 1000,
         "rating": 4.2
     },
     {
         "id": 2,
         "chefName": "Lidia Bastianich",
-        "chefPicture": "https://s.abcnews.com/images/GMA/230301_gma_digital_1_lidiabastianich_hpMain_4x5_608.jpg",
-        "experience": "Over 40 years of experience in Italian cuisine",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "experience": "40+ years",
         "recipes": [
             {
                 "title": "Pasta Carbonara",
@@ -112,8 +112,8 @@
     {
         "id": 3,
         "chefName": "Massimo Bottura",
-        "chefPicture": "https://officialbespoke.co/wp-content/uploads/2016/08/2015_11_08-HIE-Photo-Massimo-Press-59.jpg",
-        "experience": "Award-winning chef and owner of Osteria Francescana in Modena, Italy",
+        "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "experience": "24+ years",
         "recipes": [
             {
                 "title": "Tortellini in Brodo",
@@ -188,7 +188,7 @@
         "id": 4,
         "chefName": "Giada De Laurentiis",
         "chefPicture": "https://imageio.forbes.com/blogs-images/debbikickham/files/2019/04/Forbes-Giada-headshot.jpg?format=jpg&width=1200",
-        "experience": "20+ years",
+        "experience": "12+ years",
         "recipes": [
             {
                 "title": "Linguine with Clams",
@@ -248,7 +248,7 @@
                 "cookingMethod": "This recipe is for making spaghetti carbonara, a classic Italian pasta dish. Spaghetti is cooked until al dente, while pancetta or bacon is cooked until crispy with garlic in a large skillet. In a medium bowl, eggs and Parmesan cheese are whisked together, seasoned with salt and pepper. The cooked spaghetti is then added to the skillet and tossed with the pancetta or bacon before the egg mixture is poured in and tossed until the pasta is coated and the eggs are cooked. The spaghetti carbonara is then served immediately, garnished with additional Parmesan cheese and black pepper if desired."
             }
         ],
-        "bio": "Giuseppe is a third-generation Italian chef who learned to cook from his Nonna in Rome. He has over 20 years of experience working in some of the best Italian restaurants in New York City. Giuseppe is passionate about bringing authentic Italian flavors to every dish he creates.",
+        "bio": "Giada De Laurentiis is a third-generation Italian chef who learned to cook from his Nonna in Rome. He has over 12 years of experience working in some of the best Italian restaurants in New York City. Giuseppe is passionate about bringing authentic Italian flavors to every dish he creates.",
         "likes": 450,
         "rating": 4.8
     },
@@ -256,11 +256,10 @@
         "id": 5,
         "chefName": "Giuseppe",
         "chefPicture": "https://images.getbento.com/accounts/d8359f61b43ef4d152cf9e1edc857efe/media/images/10244IMG_5014.jpg?w=1200&fit=max&auto=compress,format",
-        "experience": 20,
+        "experience": "15+ years",
         "recipes": [
             {
                 "name": "Spaghetti Aglio e Olio",
-                "description": "A simple and classic Italian pasta dish.",
                 "ingredients": [
                     "1 pound spaghetti",
                     "1/3 cup olive oil",
@@ -273,7 +272,6 @@
             },
             {
                 "name": "Pesto Chicken",
-                "description": "A delicious and easy-to-make chicken dish with pesto sauce.",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup pesto sauce",
@@ -285,7 +283,6 @@
             },
             {
                 "name": "Tiramisu",
-                "description": "A classic Italian dessert with layers of ladyfingers, espresso, and mascarpone cream.",
                 "ingredients": [
                     "6 egg yolks",
                     "3/4 cup sugar",
@@ -300,15 +297,15 @@
                 "cookingMethod": "This recipe is for making tiramisu, a classic Italian dessert. The process involves whisking egg yolks and sugar, then adding milk and Marsala or brandy. This mixture is cooked until thickened and cooled before being combined with whipped cream and mascarpone cheese. Ladyfingers are dipped in espresso and coffee liqueur, arranged in a baking dish, and covered with layers of the mascarpone mixture. The tiramisu is then refrigerated for at least 2 hours and dusted with cocoa powder before serving."
             }
         ],
-        "bio": "Maria is a passionate Italian chef who has been cooking for over 15 years. She specializes in traditional Italian cuisine and loves to experiment with new flavors and ingredients.",
+        "bio": "Giuseppe is a passionate Italian chef who has been cooking for over 15 years. She specializes in traditional Italian cuisine and loves to experiment with new flavors and ingredients.",
         "likes": 500,
         "rating": 4.3
     },
     {
         "id": 6,
         "chefName": "Maria Bianchi",
-        "chefPicture": "https://example.com/chef9.jpg",
-        "experience": "15 years",
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661299298162-e98dc7d7ff9e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHdvbWVuJTIwY2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+        "experience": "5+ years",
         "recipes": [
             {
                 "name": "Caprese Salad",
