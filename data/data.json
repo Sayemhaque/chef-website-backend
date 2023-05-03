@@ -7,51 +7,43 @@
         "recipes": [
             {
                 "title": "Pasta e Fagioli",
+                "rating": 4.0,
                 "ingredients": [
                     "1 lb cannellini beans",
                     "1/4 cup olive oil",
                     "1 onion, chopped",
                     "2 garlic cloves, minced",
-                    "1 tsp dried thyme",
-                    "1/2 tsp red pepper flakes",
-                    "2 bay leaves",
-                    "6 cups broth",
-                    "1 lb ditalini pasta",
-                    "1/2 cup Parmesan cheese",
-                    "Salt and pepper"
+                    "1 tsp dried thyme"
                 ],
                 "cookingMethod": "This recipe involves sautéing onion, garlic, and carrots in oil, followed by stirring in tomato paste, canned tomatoes, broth, and beans, and then simmering. Once cooked pasta is added, the dish is seasoned with salt, pepper, and herbs before being served hot."
             },
             {
                 "title": "Pizza Margherita",
+                "rating": 4.6,
                 "ingredients": [
                     "1 lb pizza dough",
                     "1/4 cup tomato sauce",
                     "8 oz fresh mozzarella cheese",
                     "1/4 cup chopped fresh basil",
-                    "2 tbsp olive oil",
-                    "Salt and pepper"
+                    "2 tbsp olive oil"
                 ],
                 "cookingMethod": "This recipe is a classic for pizza lovers. Simply roll out the dough and spread sauce over it. Top it with cheese, fresh basil, and a drizzle of oil. Bake it in the preheated oven until the crust turns golden brown. Once done, slice and serve hot. It's a quick and easy way to enjoy a delicious homemade pizza."
             },
             {
                 "title": "Risotto alla Milanese",
+                "rating": 4.2,
                 "ingredients": [
                     "6 cups broth",
                     "3 tbsp butter",
                     "1 onion, chopped",
                     "1 1/2 cups Arborio rice",
-                    "1/2 cup dry white wine",
-                    "1/2 cup Parmesan cheese",
-                    "Salt and pepper",
-                    "A pinch of saffron threads"
+                    "1/2 cup dry white wine"
                 ],
                 "cookingMethod": "To make risotto, heat broth and sauté onion in butter. Add rice and toast, then stir in wine. Gradually add broth and stir until the rice is tender. Stir in cheese and saffron, season with salt and pepper, and let rest before serving."
             }
         ],
         "bio": "Gennaro Contaldo is a well-known Italian chef who has been cooking for over 20 years. He has worked in some of the best Italian restaurants in the UK and has appeared on numerous cooking shows.",
-        "likes": 1000,
-        "rating": 4.2
+        "likes": 1000
     },
     {
         "id": 2,
@@ -61,53 +53,43 @@
         "recipes": [
             {
                 "title": "Pasta Carbonara",
+                "rating": 4.3,
                 "ingredients": [
                     "spaghetti",
                     "pancetta/bacon",
                     "egg yolks",
                     "Pecorino Romano cheese",
-                    "Parmesan cheese"
+                    "2 tbsp olive oil"
                 ],
                 "cookingMethod": "This recipe for pasta carbonara involves boiling spaghetti and cooking pancetta or bacon. Whisk egg yolks, cheese, and garlic together, and add the pasta and pancetta to a skillet. Pour the egg mixture over the pasta, stir constantly, and add pasta water if needed. Season with salt and pepper, and garnish with grated cheese and black pepper for a delicious meal."
             },
             {
                 "title": "Osso Buco",
+                "rating": 4.2,
                 "ingredients": [
                     "veal shanks",
                     "Salt and pepper",
                     "all-purpose flour",
                     "olive oil",
-                    "onion",
-                    "celery",
-                    "carrots",
-                    "garlic",
-                    "chicken or beef broth",
-                    "dry white wine",
-                    "crushed tomatoes",
-                    "fresh parsley",
-                    "lemon zest",
-                    "fresh thyme",
-                    "bay leaf"
+                    "onion"
                 ],
                 "cookingMethod": "The recipe involves seasoning and flouring veal shanks, browning them in olive oil, cooking onions, celery, carrots, and garlic, and adding broth, wine, crushed tomatoes, parsley, lemon zest, thyme, and bay leaf. The veal shanks are then returned to the pot and covered with the tomato mixture before being cooked in the oven until tender. Finally, the dish is garnished with chopped parsley."
             },
             {
                 "title": "Spaghetti Carbonara",
+                "rating": 4.7,
                 "ingredients": [
                     "spaghetti",
                     "pancetta",
                     "egg yolks",
                     "Parmesan cheese",
-                    "Pecorino Romano cheese",
-                    "black pepper",
-                    "Salt"
+                    "Pecorino Romano cheese"
                 ],
                 "cookingMethod": "To make this pasta dish, spaghetti is boiled and pancetta is cooked. Meanwhile, egg yolks, Parmesan cheese, Pecorino Romano cheese, black pepper, and salt are whisked together. The drained spaghetti is then added to the skillet with the cooked pancetta. The egg mixture is added and the pasta is tossed until the sauce becomes creamy, adding reserved pasta water if needed. Finally, the dish is garnished with grated cheese and black pepper."
             }
         ],
         "bio": "Lidia Bastianich is an Italian-American chef, television host, author, and restaurateur. She is the owner of several Italian restaurants in the US and has written several cookbooks. Lidia is known for her traditional Italian dishes and her emphasis on fresh, seasonal ingredients.",
-        "likes": 2000,
-        "rating": 4.0
+        "likes": 2000
     },
     {
         "id": 3,
@@ -117,72 +99,43 @@
         "recipes": [
             {
                 "title": "Tortellini in Brodo",
+                "rating": 4.4,
                 "ingredients": [
                     "For the broth:",
                     "2 pounds beef or chicken bones",
                     "2 carrots, roughly chopped",
                     "2 celery stalks, roughly chopped",
-                    "1 onion, roughly chopped",
-                    "1 bay leaf",
-                    "For the tortellini filling:",
-                    "1/2 pound ground pork",
-                    "1/2 pound ground beef",
-                    "1/2 cup grated Parmesan cheese",
-                    "1/2 cup grated Pecorino Romano cheese",
-                    "1/2 cup fresh breadcrumbs",
-                    "1 egg, lightly beaten",
-                    "1/4 teaspoon freshly grated nutmeg",
-                    "Salt and freshly ground black pepper",
-                    "For the pasta dough:",
-                    "2 cups all-purpose flour",
-                    "2 large eggs",
-                    "1/2 teaspoon salt",
-                    "1/4 cup water",
-                    "For serving:",
-                    "Chopped fresh parsley",
-                    "Grated Parmesan cheese"
+                    "1 onion, roughly chopped"
                 ],
                 "cookingMethod": "To make this dish, a broth is prepared by simmering bones, carrots, celery, onion, bay leaf, and water for 4-6 hours, then straining and keeping it warm. The tortellini filling is made by combining ground pork, ground beef, Parmesan cheese, Pecorino Romano cheese, breadcrumbs, egg, nutmeg, salt, and pepper. Pasta dough is made by pulsing flour, eggs, salt, and water in a food processor, then kneading and resting it. The dough is rolled and cut into circles, which are filled with tortellini filling, folded, and pinched to form tortellini. The tortellini are boiled and served in the warm broth, garnished with chopped parsley and grated Parmesan cheese."
             },
             {
                 "title": "Risotto alla Milanese",
+                "rating": 4.5,
                 "ingredients": [
                     "1 small onion, finely chopped",
                     "2 tablespoons unsalted butter",
                     "1 cup Arborio rice",
                     "1/2 cup dry white wine",
-                    "4 cups chicken or vegetable broth",
-                    "1/2 teaspoon saffron threads",
-                    "1/2 cup grated Parmesan cheese",
-                    "Salt and freshly ground black pepper"
+                    "4 cups chicken or vegetable broth"
                 ],
                 "cookingMethod": "To make risotto, melt butter and sauté onion until translucent. Add rice and stir until lightly toasted. Pour in wine and let it absorb, then add broth one ladle at a time, stirring constantly until the rice is creamy. Add saffron and Parmesan cheese, then season with salt and pepper. Serve hot and garnish with more Parmesan cheese if desired."
             },
             {
-                "title": "Pappardelle with Wild Boar Ragu",
+                "title": "Pappardelle",
+                "rating": 4.0,
                 "ingredients": [
                     "For the ragu:",
-                    "1 pound wild boar meat, trimmed and diced",
+                    "1 pound wild boar meat",
                     "1 onion, finely chopped",
                     "1 carrot, finely chopped",
-                    "1 celery stalk, finely chopped",
-                    "2 garlic cloves, minced",
-                    "2 tablespoons tomato paste",
-                    "1 cup dry red wine",
-                    "1 cup chicken or beef broth",
-                    "1 tablespoon chopped fresh rosemary",
-                    "1 tablespoon chopped fresh thyme",
-                    "Salt and freshly ground black pepper",
-                    "For the pasta:",
-                    "1 pound fresh pappardelle",
-                    "1/4 cup grated Parmesan cheese"
+                    "1 celery stalk, finely chopped"
                 ],
                 "cookingMethod": "To make wild boar ragu, brown the meat in a skillet then set it aside. Sauté onion, carrot, celery, and garlic in the same skillet, then add tomato paste and wine. Return the meat to the skillet, add herbs and simmer for 2-3 hours until tender. Serve over cooked pasta and top with Parmesan cheese."
             }
         ],
         "bio": "Massimo Bottura is one of the world's most celebrated chefs, known for his innovative approach to traditional Italian cuisine. His restaurant, Osteria Francescana, has been awarded three Michelin stars and was named the best restaurant in the world in 2016 and 2018 by The World's 50 Best Restaurants.",
-        "likes": 5000,
-        "rating": 4.4
+        "likes": 5000
     },
     {
         "id": 4,
@@ -192,65 +145,55 @@
         "recipes": [
             {
                 "title": "Linguine with Clams",
+                "rating": 4.1,
                 "ingredients": [
                     "1 pound linguine",
                     "1/2 cup extra-virgin olive oil",
                     "8 garlic cloves, thinly sliced",
                     "2 small red chilies, seeded and minced",
-                    "2 pounds small clams, such as littlenecks or Manila, scrubbed",
-                    "1 cup dry white wine",
-                    "1/4 cup chopped fresh parsley",
-                    "Salt and freshly ground black pepper"
+                    "2 pounds small clams, such as littlenecks or Manila, scrubbed"
                 ],
                 "cookingMethod": "To make linguine with clams, boil linguine until al dente. In a large skillet, sauté garlic and chilies in olive oil, then add clams and wine and cook covered until clams open. Discard unopened clams, then add linguine to the skillet and toss with the clams. Add parsley and season with salt and pepper. Serve hot and garnish with more parsley if desired."
             },
             {
                 "title": "Eggplant Parmesan",
+                "rating": 4.9,
                 "ingredients": [
                     "2 large eggplants, sliced into 1/4-inch rounds",
                     "Salt",
                     "2 cups all-purpose flour",
                     "4 large eggs",
-                    "4 cups panko breadcrumbs",
-                    "1/2 cup grated Parmesan cheese",
-                    "1/4 cup chopped fresh basil",
-                    "2 cups marinara sauce",
-                    "2 cups shredded mozzarella cheese"
+                    "4 cups panko breadcrumbs"
                 ],
                 "cookingMethod": "To make eggplant Parmesan, preheat the oven and line a baking sheet with parchment paper. Salt eggplant slices and let sit to release water. Prepare breading station with flour, beaten eggs, and breadcrumb mixture. Coat eggplant slices in each bowl, then bake until crispy. Layer eggplant slices with marinara sauce and shredded mozzarella cheese in a baking dish. Bake until bubbly and golden brown on top. Cool before serving."
             },
             {
                 "title": "Tiramisu",
+                "rating": 4.3,
                 "ingredients": [
                     "6 large egg yolks",
                     "3/4 cup granulatedsugar",
                     "2/3 cup whole milk",
                     "1/4 cup Marsala or brandy",
-                    "1 1/2 cups heavy cream",
-                    "1 cup mascarpone cheese",
-                    "2 cups brewed espresso or strong coffee, cooled",
-                    "1/2 cup Kahlua or other coffee liqueur",
-                    "1 package ladyfingers (about 24 cookies)",
-                    "Cocoa powder, for dusting"
+                    "1 1/2 cups heavy cream"
                 ],
                 "cookingMethod": "This recipe is for making tiramisu, a classic Italian dessert. The process involves whisking egg yolks and sugar, then adding milk and Marsala or brandy. This mixture is cooked until thickened and cooled before being combined with whipped cream and mascarpone cheese. Ladyfingers are dipped in espresso and coffee liqueur, arranged in a baking dish, and covered with layers of the mascarpone mixture. The tiramisu is then refrigerated for at least 2 hours and dusted with cocoa powder before serving."
             },
             {
-                "name": "Spaghetti Carbonara",
+                "title": "Spaghetti Carbonara",
+                "rating": 4.4,
                 "ingredients": [
                     "1 pound spaghetti",
                     "1/2 pound pancetta or bacon, diced",
                     "4 garlic cloves, minced",
                     "4 large eggs",
-                    "1 cup freshly grated Parmesan cheese",
-                    "Salt and freshly ground black pepper"
+                    "1 cup freshly grated Parmesan cheese"
                 ],
                 "cookingMethod": "This recipe is for making spaghetti carbonara, a classic Italian pasta dish. Spaghetti is cooked until al dente, while pancetta or bacon is cooked until crispy with garlic in a large skillet. In a medium bowl, eggs and Parmesan cheese are whisked together, seasoned with salt and pepper. The cooked spaghetti is then added to the skillet and tossed with the pancetta or bacon before the egg mixture is poured in and tossed until the pasta is coated and the eggs are cooked. The spaghetti carbonara is then served immediately, garnished with additional Parmesan cheese and black pepper if desired."
             }
         ],
         "bio": "Giada De Laurentiis is a third-generation Italian chef who learned to cook from his Nonna in Rome. He has over 12 years of experience working in some of the best Italian restaurants in New York City. Giuseppe is passionate about bringing authentic Italian flavors to every dish he creates.",
-        "likes": 450,
-        "rating": 4.8
+        "likes": 450
     },
     {
         "id": 5,
@@ -259,19 +202,20 @@
         "experience": "15+ years",
         "recipes": [
             {
-                "name": "Spaghetti Aglio e Olio",
+                "title": "Spaghetti Aglio e Olio",
+                "rating": 4.8,
                 "ingredients": [
                     "1 pound spaghetti",
                     "1/3 cup olive oil",
                     "8 cloves garlic, minced",
                     "1/2 teaspoon red pepper flakes",
-                    "1/2 cup fresh parsley leaves, chopped",
-                    "1/2 cup Parmesan cheese, grated"
+                    "1/2 cup fresh parsley leaves, chopped"
                 ],
                 "cookingMethod": "This recipe is for making a simple spaghetti dish with garlic and olive oil. A large pot of salted water is brought to a boil and spaghetti is cooked until al dente, which takes about 8-10 minutes. In a large skillet, olive oil is heated over medium heat, and garlic and red pepper flakes are added and cooked until fragrant. The cooked spaghetti is drained, and a cup of the pasta water is reserved. The spaghetti and reserved pasta water are then added to the skillet and tossed to coat with the garlic and oil mixture. Finally, parsley and Parmesan cheese are added and tossed to combine, and the dish is seasoned with salt and black pepper to taste. The spaghetti is served hot."
             },
             {
-                "name": "Pesto Chicken",
+                "title": "Pesto Chicken",
+                "rating": 4.9,
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup pesto sauce",
@@ -279,27 +223,23 @@
                     "1/2 cup mozzarella cheese, shredded",
                     "Salt and pepper to taste"
                 ],
-                "cookingMethod":"This recipe is for Pesto Chicken Bake. To make it, preheat the oven to 375°F. Season chicken breasts with salt and pepper and place them in a baking dish. Spread pesto sauce on top of each chicken breast. Top with cherry tomatoes and mozzarella cheese. Bake in the preheated oven for 25-30 minutes until chicken is cooked and cheese is melted. Serve hot."
+                "cookingMethod": "This recipe is for Pesto Chicken Bake. To make it, preheat the oven to 375°F. Season chicken breasts with salt and pepper and place them in a baking dish. Spread pesto sauce on top of each chicken breast. Top with cherry tomatoes and mozzarella cheese. Bake in the preheated oven for 25-30 minutes until chicken is cooked and cheese is melted. Serve hot."
             },
             {
-                "name": "Tiramisu",
+                "title": "Tiramisu",
+                "rating": 4.2,
                 "ingredients": [
                     "6 egg yolks",
                     "3/4 cup sugar",
                     "2/3 cup milk",
                     "1 1/4 cups heavy cream",
-                    "1/2 teaspoon vanilla extract",
-                    "1 pound mascarpone cheese, room temperature",
-                    "1/2 cup brewed espresso or strong coffee, cooled",
-                    "24 ladyfingers",
-                    "Cocoa powder, for dusting"
+                    "1/2 teaspoon vanilla extract"
                 ],
                 "cookingMethod": "This recipe is for making tiramisu, a classic Italian dessert. The process involves whisking egg yolks and sugar, then adding milk and Marsala or brandy. This mixture is cooked until thickened and cooled before being combined with whipped cream and mascarpone cheese. Ladyfingers are dipped in espresso and coffee liqueur, arranged in a baking dish, and covered with layers of the mascarpone mixture. The tiramisu is then refrigerated for at least 2 hours and dusted with cocoa powder before serving."
             }
         ],
         "bio": "Giuseppe is a passionate Italian chef who has been cooking for over 15 years. She specializes in traditional Italian cuisine and loves to experiment with new flavors and ingredients.",
-        "likes": 500,
-        "rating": 4.3
+        "likes": 500
     },
     {
         "id": 6,
@@ -308,7 +248,8 @@
         "experience": "5+ years",
         "recipes": [
             {
-                "name": "Caprese Salad",
+                "title": "Caprese Salad",
+                "rating": 4.3,
                 "ingredients": [
                     "Tomatoes",
                     "Fresh Mozzarella",
@@ -319,7 +260,8 @@
                 "cookingMethod": "To make a caprese salad, slice tomatoes and mozzarella into thin rounds and arrange them alternately on a plate. Drizzle with balsamic vinegar and olive oil and garnish with basil leaves."
             },
             {
-                "name": "Bruschetta",
+                "title": "Bruschetta",
+                "rating": 4.6,
                 "ingredients": [
                     "Bread",
                     "Tomatoes",
@@ -335,20 +277,19 @@
                 ]
             },
             {
-                "name": "Tiramisu",
+                "title": "Tiramisu",
+                "rating": 4.3,
                 "ingredients": [
                     "Ladyfingers",
                     "Mascarpone Cheese",
                     "Eggs",
                     "Sugar",
-                    "Coffee",
-                    "Cocoa Powder"
+                    "Coffee"
                 ],
                 "cookingMethod": "This recipe is for making tiramisu, a classic Italian dessert. The process involves whisking egg yolks and sugar, then adding milk and Marsala or brandy. This mixture is cooked until thickened and cooled before being combined with whipped cream and mascarpone cheese. Ladyfingers are dipped in espresso and coffee liqueur, arranged in a baking dish, and covered with layers of the mascarpone mixture. The tiramisu is then refrigerated for at least 2 hours and dusted with cocoa powder before serving."
             }
         ],
         "bio": "Maria Bianchi is a passionate Italian chef who grew up in a family of foodies. She learned the art of cooking from her mother and grandmother, and has been honing her skills ever since. She believes in using fresh, locally sourced ingredients and traditional cooking techniques to create authentic Italian dishes.",
-        "likes": 350,
-        "rating": 4.1
+        "likes": 350
     }
 ]
